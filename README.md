@@ -9,5 +9,5 @@ image = "https://raw.githubusercontent.com/username/repository/branch/filename"
 GraphicsWindow.DrawResizedImage(image, x, y, width, height)
 
 ### Actual Code Example:
-image = "https://raw.githubusercontent.com/audleywalkerCSU/SmallBasicImages/main/Microsoft%20Small%20Basic.png"
+image = "https://raw.githubusercontent.com/audleywalkerCSU/SmallBasicImages/main/Microsoft_Small_Basic.png"
 GraphicsWindow.DrawResizedImage(image, x, y, width, height)
